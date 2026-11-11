@@ -4,6 +4,8 @@ Sistema de aprendizaje de **Medicina Familiar y Comunitaria** (asignatura 1960, 
 
 **Usar la app:** https://fborrasumh.github.io/familia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24128865.svg)](https://doi.org/10.5281/zenodo.24128865)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 > **Versión 1.0, contenido pendiente de revisión.** Las 40 preguntas, los 3 pacientes simulados y sus explicaciones se han redactado para esta app a partir de la guía docente y aún no los ha revisado el profesorado coautor. No son preguntas de examen reales ni sustituyen a la bibliografía ni a la docencia.
@@ -70,7 +72,7 @@ Construida a partir de la Guía Docente de la asignatura 1960 Medicina Familiar 
 
 ## Cómo citar
 
-Borrás Rocher, F.; Orozco Beltrán, D.; Carratalá Munuera, M.; Pertusa Martínez, S.; Zazo Menargues, J.; Gil Guillén, V.; Sánchez Mollá, M.; Hermida Campa, E.; López-Pineda, A.; Piñol Pleguezuelos, R.; Salas Tomás, M.; Sánchez Botella, C.; Gandulla Soriano, R.; Ramos Maestre, M.; Candela García, I.; González Ferreño, A. (2026). *FamilIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F.; Orozco Beltrán, D.; Carratalá Munuera, M.; Pertusa Martínez, S.; Zazo Menargues, J.; Gil Guillén, V.; Sánchez Mollá, M.; Hermida Campa, E.; López-Pineda, A.; Piñol Pleguezuelos, R.; Salas Tomás, M.; Sánchez Botella, C.; Gandulla Soriano, R.; Ramos Maestre, M.; Candela García, I.; González Ferreño, A. (2026). *FamilIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.24128865](https://doi.org/10.5281/zenodo.24128865)
 
 ## Licencia
 
